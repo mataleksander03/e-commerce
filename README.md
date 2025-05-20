@@ -3,7 +3,15 @@
 ## 🔗 Link do repozytorium z aplikacją demonstracyjną
 ➡️ [Zobacz kod źródłowy projektu Java](https://github.com/mataleksander03/ClientManager)
 
-## 🛠️ Technologie
+## 🏋️‍♂️ Zadania:
+- łatwe / tablice
+- łatwe / stosy
+- sredniotrudne/ kopiec
+- srednie/ hashmapy
+- średnie/ mapy i kolejki
+
+
+## 🛠️ Technologie aplikacji
 - JavaFX (interfejs graficzny)
 - Struktury danych: `TreeMap`, `HashMap`, `Set`, `List`
 - Maven (do zarządzania projektem)
