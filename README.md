@@ -4,11 +4,11 @@
 ➡️ [Zobacz kod źródłowy projektu Java](https://github.com/mataleksander03/ClientManager)
 
 ## 🏋️‍♂️ Zadania:
-- łatwe / tablice
-- łatwe / stosy
-- sredniotrudne/ kopiec
-- srednie/ hashmapy
-- średnie/ mapy i kolejki
+- 1.łatwe / tablice
+- 2.łatwe / stosy
+- 3.sredniotrudne/ kopiec
+- 4.srednie/ hashmapy
+- 5.średnie/ mapy i kolejki
 
 
 ## 🛠️ Technologie aplikacji
